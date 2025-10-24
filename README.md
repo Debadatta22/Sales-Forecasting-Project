@@ -63,7 +63,8 @@ The dataset contains **8,523 records** with **12 initial features** describing p
 
 ## 🔄 Project Workflow
 
-![Project Workflow Diagram](https://via.placeholder.com/800x400/FFFFFF/000000?text=Project+Workflow+Diagram+Will+Be+Placed+Here)
+<img width="3576" height="8646" alt="image" src="https://github.com/user-attachments/assets/8af72772-a5aa-49f0-8475-fa4cb018ff61" />
+
 
 *Insert detailed workflow diagram showing complete data flow from raw data to deployment*
 
