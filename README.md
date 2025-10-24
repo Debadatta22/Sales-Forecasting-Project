@@ -230,6 +230,29 @@ The dataset contains **8,523 records** with **12 initial features** describing p
 - **MAE**: 752.04 (Mean Absolute Error)
 - **Improvement over Baseline**: 42.3% better than mean prediction
 
+<img width="1351" height="1019" alt="image" src="https://github.com/user-attachments/assets/ce9384db-dd31-4957-8b1f-9d51bf645a73" />
+
+<img width="1350" height="943" alt="image" src="https://github.com/user-attachments/assets/f28b4eb8-9fd3-45b4-ab59-862f671905a9" />
+
+<img width="1339" height="676" alt="image" src="https://github.com/user-attachments/assets/4d23fd30-7149-42df-807e-2ee79a1664e6" />
+
+<img width="1194" height="934" alt="image" src="https://github.com/user-attachments/assets/8649b3ab-11ba-4cb4-83bf-4809d1ebdbd7" />
+
+<img width="1187" height="1031" alt="image" src="https://github.com/user-attachments/assets/9372f8f0-1935-4d84-af8f-2357c895f238" />
+
+<img width="1204" height="782" alt="image" src="https://github.com/user-attachments/assets/ff155a59-1159-43e7-b899-41b3a44552a2" />
+
+<img width="1291" height="772" alt="image" src="https://github.com/user-attachments/assets/5940f341-fbc3-4124-a78d-dc4f96cd4a88" />
+
+<img width="1119" height="1005" alt="image" src="https://github.com/user-attachments/assets/df7e7f53-9bfd-477f-be66-2ddae98671fe" />
+
+<img width="1051" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b963f28-d79e-41dc-8ac0-a8921d53b7c5" />
+
+<img width="1114" height="579" alt="image" src="https://github.com/user-attachments/assets/2964a0e9-d569-4696-94d1-ac573b515555" />
+
+<img width="1122" height="852" alt="image" src="https://github.com/user-attachments/assets/f3383483-09f4-4e8f-bf85-f6550cf7cea7" />
+
+
 ## 🔍 Key Insights
 
 ### Top 5 Features Driving Sales Predictions:
