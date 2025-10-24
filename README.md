@@ -1,5 +1,49 @@
 # Sales-Forecasting-Project
 
+🚀 Quick Access
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+
+<a href="https://drive.google.com/file/d/1ysodeYZmL2sU0nTw8zMicuPQe8E_v5lo/view?usp=drive_link" style="text-decoration: none;">
+  <button style="background: linear-gradient(45deg, #FF6B6B, #FF8E53); 
+                border: none; 
+                padding: 20px 40px; 
+                border-radius: 12px; 
+                color: white; 
+                font-size: 18px; 
+                font-weight: bold; 
+                cursor: pointer; 
+                transition: all 0.3s ease;
+                box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+                display: flex;
+                align-items: center;
+                gap: 10px;">
+    📊 View Complete Project Code
+  </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1It15qDPra6k4NFjACQ_Lmh5EjhBV1R5A/view?usp=drive_link" style="text-decoration: none;">
+  <button style="background: linear-gradient(45deg, #4ECDC4, #44A08D); 
+                border: none; 
+                padding: 20px 40px; 
+                border-radius: 12px; 
+                color: white; 
+                font-size: 18px; 
+                font-weight: bold; 
+                cursor: pointer; 
+                transition: all 0.3s ease;
+                box-shadow: 0 4px 15px rgba(78, 205, 196, 0.3);
+                display: flex;
+                align-items: center;
+                gap: 10px;">
+    📁 Download Dataset Files
+  </button>
+
+
+</div>
+
+</div>
+
 # 🎯 Sales Forecasting - Retail Analytics Project
 
 <div align="center">
